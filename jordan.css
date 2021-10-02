@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@200&display=swap');
+body
+.box-1{
+    margin-left: 600px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.8cm;
+}
+.box-2{
+    margin-left: 470px;
+}
+.box-3{
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Prompt', sans-serif;
+}

@@ -1,0 +1,28 @@
+body {
+    background-image:url(imimimage/nike.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+ 
+}
+
+.button1{
+    position:relative;
+    top: 60px;
+    left: 350px;
+
+}
+.button2{
+    position:relative;
+    top: 19px;
+    left: 550px;
+}
+.button3{
+    position:relative;
+    top: -22px;
+    left: 750px;
+}
+.button4{
+    position:relative;
+    top: -65px;
+    left: 950px;
+}

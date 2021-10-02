@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+body {
+    background-image:url(imimimage/sinitta-leunen-bBw0JMlqNyE-unsplash.jpg);
+    background-size: cover;
+}
+.main-content{
+    margin-top: 650px;
+}
+.box {
+    box-sizing: border-box;
+    border-radius: 50px;
+    height:900px;
+    width: 900px;
+    opacity: 60%;
+    background-color: lightgray;
+    padding: 20px;
+    margin: 30px;
+    box-shadow: rgba(0,0,0,0.2) 3px 3px 10px;
+
+}
+
+.h1{
+    font-family: 'Lato', sans-serif;
+
+}
+.h3{
+    font-family: 'Lato', sans-serif;
+}
